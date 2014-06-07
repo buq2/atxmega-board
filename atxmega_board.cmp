@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by Cvpcb (2014-06-01 BZR 4908)-product   date = Sat Jun  7 16:44:24 2014
+
+BeginCmp
+TimeStamp = /538CB947;
+Reference = C1;
+ValeurCmp = 4.7n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390C70C;
+Reference = C2;
+ValeurCmp = 18p;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390C6D3;
+Reference = C3;
+ValeurCmp = 18p;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53931555;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53930DCF;
+Reference = C5;
+ValeurCmp = 4.7u;
+IdModule  = buq2:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53930560;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53930519;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /539303EE;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /539304D1;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538227E0;
+Reference = CON1;
+ValeurCmp = BUQ2-USB-MINI-B;
+IdModule  = buq2:BUQ2-USB-B-RIGHT-ANGLE-SM;
+EndCmp
+
+BeginCmp
+TimeStamp = /538CBDFD;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = buq2:RESETTABLE_FUSE_BOURNS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53821B69;
+Reference = IC1;
+ValeurCmp = BUQ2-ATXMEGA128A4U-A;
+IdModule  = buq2:BUQ2-TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390BE50;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = buq2:PIN_HEADER_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390CC72;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = buq2:PIN_HEADER_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390DA36;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = buq2:PIN_HEADER_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53937C28;
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = buq2:PIN_HEADER_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53938208;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = buq2:PIN_HEADER_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /539382C1;
+Reference = P6;
+ValeurCmp = CONN_4;
+IdModule  = buq2:PIN_HEADER_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /538CB8AE;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53931319;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390B691;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53931EC2;
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538E161F;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = buq2:PUSHBUTTON_4x4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53821B4E;
+Reference = VR1;
+ValeurCmp = VR;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53821DEC;
+Reference = VR2;
+ValeurCmp = VR;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390C535;
+Reference = X1;
+ValeurCmp = CRYSTAL_SMD;
+IdModule  = buq2:SM_CRYSTAL_4_LEAD;
+EndCmp
+
+EndListe
