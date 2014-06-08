@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-06-01 BZR 4908)-product   date = Sat Jun  7 16:44:24 2014
+Cmp-Mod V01 Created by Cvpcb (2014-06-07 BZR 4932)-product   date = Sun Jun  8 11:49:40 2014
 
 BeginCmp
 TimeStamp = /538CB947;
@@ -64,9 +64,16 @@ IdModule  = buq2:SM0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /539427D0;
+Reference = C10;
+ValeurCmp = 4.7u;
+IdModule  = buq2:SM0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /538227E0;
 Reference = CON1;
-ValeurCmp = BUQ2-USB-MINI-B;
+ValeurCmp = USB;
 IdModule  = buq2:BUQ2-USB-B-RIGHT-ANGLE-SM;
 EndCmp
 
@@ -80,49 +87,49 @@ EndCmp
 BeginCmp
 TimeStamp = /53821B69;
 Reference = IC1;
-ValeurCmp = BUQ2-ATXMEGA128A4U-A;
+ValeurCmp = ATXMEGA;
 IdModule  = buq2:BUQ2-TQFP44;
 EndCmp
 
 BeginCmp
 TimeStamp = /5390BE50;
 Reference = P1;
-ValeurCmp = CONN_4;
+ValeurCmp = PDI;
 IdModule  = buq2:PIN_HEADER_4;
 EndCmp
 
 BeginCmp
 TimeStamp = /5390CC72;
 Reference = P2;
-ValeurCmp = CONN_8;
+ValeurCmp = PORTD;
 IdModule  = buq2:PIN_HEADER_8;
 EndCmp
 
 BeginCmp
 TimeStamp = /5390DA36;
 Reference = P3;
-ValeurCmp = CONN_8;
+ValeurCmp = PORTA;
 IdModule  = buq2:PIN_HEADER_8;
 EndCmp
 
 BeginCmp
 TimeStamp = /53937C28;
 Reference = P4;
-ValeurCmp = CONN_8;
+ValeurCmp = PORTC;
 IdModule  = buq2:PIN_HEADER_8;
 EndCmp
 
 BeginCmp
 TimeStamp = /53938208;
 Reference = P5;
-ValeurCmp = CONN_4;
+ValeurCmp = PORTB;
 IdModule  = buq2:PIN_HEADER_4;
 EndCmp
 
 BeginCmp
 TimeStamp = /539382C1;
 Reference = P6;
-ValeurCmp = CONN_4;
+ValeurCmp = PORTE;
 IdModule  = buq2:PIN_HEADER_4;
 EndCmp
 
@@ -155,10 +162,31 @@ IdModule  = buq2:SM0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /5393B7AA;
+Reference = R5;
+ValeurCmp = 0;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393B60C;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = buq2:SM0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /538E161F;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
 IdModule  = buq2:PUSHBUTTON_4x4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5394234F;
+Reference = U1;
+ValeurCmp = NCP1117ST33T3G;
+IdModule  = buq2:SOT-223;
 EndCmp
 
 BeginCmp
